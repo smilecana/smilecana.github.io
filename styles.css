@@ -1,6 +1,6 @@
 .portfolio-header {
   position: relative;
-  background-image: url(images/header-bg.jpg);
+  background-color: white;
 }
 
 .portfolio-header .mdl-layout__header-row {
@@ -8,12 +8,14 @@
   -webkit-justify-content: center;
       -ms-flex-pack: center;
           justify-content: center;
+  
 }
 
 .mdl-layout__title {
-  font-size: 14px;
+  font-size: 20px;
   text-align: center;
-  font-weight: 300;
+  letter-spacing: 15px;
+  font-weight: bold;
 }
 
 .is-compact .mdl-layout__title span {
@@ -29,7 +31,6 @@
 }
 
 .portfolio-logo {
-  background: url(images/logo.png) 50% no-repeat;
   background-size: cover;
   height: 150px;
   width: 150px;
@@ -78,14 +79,19 @@
   position: absolute;
   bottom: 0;
   left: 0;
-  background-color: rgb(255,64,129);
   left: 15%;
+  text-align: center;
+  background-color:#ffdf00;
 }
 
 .portfolio-card .mdl-card__title {
   padding-bottom: 0;
 }
-
+.portfolio-card .article-image {
+  width: 100%;
+  height: auto;
+  min-height: 287px;
+}
 .portfolio-blog-card-full-bg {
   background: url(images/example-blog03.jpg) center / cover;
 }
@@ -109,19 +115,40 @@
 }
 
 img.article-image {
-  width: 100%;
+  width: 25%;
   height: auto;
+}
+img.profile-image{
+  margin-top:3%;
 }
 
 .portfolio-max-width {
   max-width: 900px;
   margin: auto;
 }
-
+.portfolio-max-width .mdl-card__media{
+  text-align: center;
+  background-color: white;
+}
+.portfolio-max-width .profile_title{
+  margin: 3%;
+}
 .portfolio-copy {
   max-width: 700px;
 }
-
+.profile-tech .mdl-typography--title{
+  font-weight: 500;
+  font-size: 15px;
+}
+.profile-tech{
+  list-style: none;
+}
+.profile-exp{
+  list-style: none;
+}
+.profile-exp li{
+  list-style: none;
+}
 .no-padding {
   padding: 0;
 }
@@ -162,9 +189,22 @@ img.article-image {
   max-width: 550px;
   margin: auto;
 }
-
+.portfolio-contact img.article-image{
+  width: 13%;
+  margin-top: 13%;
+  margin-bottom: 5%;
+}
+.portfolio-contact {
+  min-height: 906px;
+}
+.portfolio-contact {
+  min-height: 906px;
+}
 footer {
   background-image: url(images/footer-background.png);
   background-size: cover;
 }
-
+.portfolio-elemt .article-image{
+  width: 100%;
+  height: auto;
+}
