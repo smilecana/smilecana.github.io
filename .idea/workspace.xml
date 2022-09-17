@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bb6b5b17-f730-41a1-83da-216bd027bfb9" name="Changes" comment="FEATURE: new version portfolio" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="new_version1" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Ae7cB8Wvaq8ZKzC0Uo78djUT7z" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Projects/dvbank&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Projects\smilecana.github.io\projects\MHS" />
+      <recent name="C:\Projects\smilecana.github.io\projects\LMS" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Projects\smilecana.github.io" />
+      <recent name="C:\Projects\smilecana.github.io\projects" />
+      <recent name="C:\Projects\smilecana.github.io\images\jobfair" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bb6b5b17-f730-41a1-83da-216bd027bfb9" name="Changes" comment="" />
+      <created>1655358273783</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1655358273783</updated>
+      <workItem from="1655358275015" duration="2105000" />
+      <workItem from="1655397915512" duration="18670000" />
+      <workItem from="1655484746602" duration="10520000" />
+      <workItem from="1655669645925" duration="532000" />
+      <workItem from="1655671212894" duration="3221000" />
+      <workItem from="1655793055871" duration="198000" />
+      <workItem from="1655833153514" duration="10043000" />
+      <workItem from="1655931274036" duration="16043000" />
+      <workItem from="1656022841195" duration="13595000" />
+      <workItem from="1656099478497" duration="9274000" />
+      <workItem from="1656366979540" duration="9708000" />
+      <workItem from="1656455035327" duration="8035000" />
+      <workItem from="1656566876684" duration="18000" />
+      <workItem from="1656627867774" duration="1267000" />
+      <workItem from="1656630799618" duration="1660000" />
+      <workItem from="1656804967488" duration="369000" />
+      <workItem from="1657142594641" duration="648000" />
+      <workItem from="1663393407084" duration="1667000" />
+    </task>
+    <task id="LOCAL-00001" summary="FEATURE: new version portfolio">
+      <created>1663395445568</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1663395445568</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="FEATURE: new version portfolio" />
+    <option name="LAST_COMMIT_MESSAGE" value="FEATURE: new version portfolio" />
+  </component>
+</project>
